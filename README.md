@@ -3,15 +3,17 @@
 This is an open source Mixmax Slash Command.<br>
 See <http://developer.mixmax.com/docs/overview-slash-commands#tutorial-building-mygiphy> for more information.
 
+
 ## What it does
 
 Add realtime stock quotes (NYSE/Nasdaq/AMEX/Arca) with Mixmax.
 
-Typeahead
+Typeahead<br>
 ![typeahead](https://raw.githubusercontent.com/bohadi/mixmax-stock-slash-command/master/img/typeahead.gif)
 
-Resolver
+Resolver<br>
 ![resolver](https://raw.githubusercontent.com/bohadi/mixmax-stock-slash-command/master/img/resolver.png)
+
 
 ## Running locally
 
@@ -23,12 +25,14 @@ Resolver
 4. Enable chrome://flags '#allow-insecure-localhost'<br>
    See [here](http://developer.mixmax.com/docs/integration-api-appendix#local-development-error-neterr_insecure_response) for how to fix the **ERR_INSECURE_RESPONSE** error that you might get in Chrome.
 
+
 ## Improvements
 
 1. Thumbnail company logo (if applicable)
 2. Insert charting
 3. Insert recent news
 4. Forex and crypto
+
 
 ## Data
 
