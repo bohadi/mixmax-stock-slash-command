@@ -8,10 +8,12 @@ See <http://developer.mixmax.com/docs/overview-slash-commands#tutorial-building-
 
 Add realtime stock quotes (NYSE/Nasdaq/AMEX/Arca) with Mixmax.
 
-Typeahead<br>
+<br><br>
+
 ![typeahead](https://raw.githubusercontent.com/bohadi/mixmax-stock-slash-command/master/img/typeahead.gif)
 
-Resolver<br>
+<br><br>
+
 ![resolver](https://raw.githubusercontent.com/bohadi/mixmax-stock-slash-command/master/img/resolver.png)
 
 
